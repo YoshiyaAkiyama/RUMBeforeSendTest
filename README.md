@@ -1,0 +1,2 @@
+# RUMBeforeSendTest
+Created with CodeSandbox
